@@ -22,9 +22,7 @@ namespace Gubankovchick
 
             Console.WriteLine(" AC = " + AC);
             Console.WriteLine(" BC = " + BC);
-            Console.WriteLine(" AC + BC = " + (AC + BC));
-
-            Console.ReadLine();
+            Console.WriteLine(" AC + BC = " + (AC + BC)); 
         }
     }
 }
